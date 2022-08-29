@@ -9,6 +9,7 @@
     $ pkg install git
     $ git clone https://github.com/KelelawarCyberTeam/Wp-Auto-Upload-Shell
     $ cd Wp-Auto-Upload-Shell
+    $ python2 wp.py
     $ python wp.py
     example:
     masukan list target:
