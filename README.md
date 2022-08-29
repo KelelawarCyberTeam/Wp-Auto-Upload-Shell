@@ -1,5 +1,3 @@
-# Wp-Auto-Upload-Shell
-
 <img src="https://f.top4top.io/p_2431n7fe20.jpg" width="400" height="400" alt="kelelawar cyber team">
 <br>
    
@@ -13,3 +11,7 @@
     $ cd Wp-Auto-Upload-Shell
     $ python2 F.py
     $ python F.py
+    example:
+    masukan list target:
+    https://turkfans.com/wp-login.php#alirazabenim@sefrininkizim
+    
